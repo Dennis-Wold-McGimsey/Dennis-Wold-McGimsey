@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @Dennis-Wold-McGimsey
+- 👋 Hi, I’m @Dennis-Wold-McGimsey! Please see our latest project, Dare2Bet.me , a peer-to-peer betting web application formatted for mobile devices! 
